@@ -1,4 +1,4 @@
-vless://83f2c851-f030-4ebe-99cf-5741249f6917@org.eternalcombat.xyz:8080?encryption=none&security=none&type=tcp&headerType=none#TCP-1
-vless://7ba07fa3-4599-4cae-a1f8-9e7030aff51f@org.eternalcombat.xyz:448?encryption=none&security=none&type=tcp&headerType=http&host=telewebion.com#TCP-2
+vless://83f2c851-f030-4ebe-99cf-5741249f6917@172.234.18.102:8080?encryption=none&security=none&type=tcp&headerType=none#TCP-1
+vless://7ba07fa3-4599-4cae-a1f8-9e7030aff51f@172.234.18.102:448?encryption=none&security=none&type=tcp&headerType=http&host=telewebion.com#TCP-2
 vless://83f2c851-f030-4ebe-99cf-5741249f6917@[2600:3c06::f03c:95ff:fea9:216f]:8080?encryption=none&security=none&type=tcp&headerType=none#TCP-3
 vless://7ba07fa3-4599-4cae-a1f8-9e7030aff51f@[2600:3c06::f03c:95ff:fea9:216f]:448?encryption=none&security=none&type=tcp&headerType=http&host=telewebion.com#TCP-4
