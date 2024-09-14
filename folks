@@ -1,14 +1,14 @@
-vless://92ca555c-b66d-4786-9e94-48f4f7f2b872@www.speedtest.net:2053?encryption=none&security=tls&sni=org.expssl.lol&alpn=h3%2Ch2%2Chttp%2F1.1&type=grpc#ORG-1
-vless://92ca555c-b66d-4786-9e94-48f4f7f2b872@104.18.181.13:2053?encryption=none&security=tls&sni=org.expssl.lol&alpn=h3%2Ch2%2Chttp%2F1.1&type=grpc#ORG-2
-vless://92ca555c-b66d-4786-9e94-48f4f7f2b872@104.24.41.11:2053?encryption=none&security=tls&sni=org.expssl.lol&alpn=h3%2Ch2%2Chttp%2F1.1&type=grpc#ORG-3
-vless://92ca555c-b66d-4786-9e94-48f4f7f2b872@104.20.202.37:2053?encryption=none&security=tls&sni=org.expssl.lol&alpn=h3%2Ch2%2Chttp%2F1.1&type=grpc#ORG-4
-vless://92ca555c-b66d-4786-9e94-48f4f7f2b872@104.24.48.230:2053?encryption=none&security=tls&sni=org.expssl.lol&alpn=h3%2Ch2%2Chttp%2F1.1&type=grpc#ORG-5
-vless://92ca555c-b66d-4786-9e94-48f4f7f2b872@104.18.46.17:2053?encryption=none&security=tls&sni=org.expssl.lol&alpn=h3%2Ch2%2Chttp%2F1.1&type=grpc#ORG-6
-vless://92ca555c-b66d-4786-9e94-48f4f7f2b872@104.20.29.10:2053?encryption=none&security=tls&sni=org.expssl.lol&alpn=h3%2Ch2%2Chttp%2F1.1&type=grpc#ORG-7
+vless://fa77950c-782f-4ae0-b973-3aaf32cbf510@www.speedtest.net:2053?encryption=none&security=tls&sni=org.sinss.ir&alpn=h3%2Ch2%2Chttp%2F1.1&type=grpc#ORG-1
+vless://fa77950c-782f-4ae0-b973-3aaf32cbf510@104.18.181.13:2053?encryption=none&security=tls&sni=org.sinss.ir&alpn=h3%2Ch2%2Chttp%2F1.1&type=grpc#ORG-2
+vless://fa77950c-782f-4ae0-b973-3aaf32cbf510@104.24.41.11:2053?encryption=none&security=tls&sni=org.sinss.ir&alpn=h3%2Ch2%2Chttp%2F1.1&type=grpc#ORG-3
+vless://fa77950c-782f-4ae0-b973-3aaf32cbf510@104.20.202.37:2053?encryption=none&security=tls&sni=org.sinss.ir&alpn=h3%2Ch2%2Chttp%2F1.1&type=grpc#ORG-4
+vless://fa77950c-782f-4ae0-b973-3aaf32cbf510@104.24.48.230:2053?encryption=none&security=tls&sni=org.sinss.ir&alpn=h3%2Ch2%2Chttp%2F1.1&type=grpc#ORG-5
+vless://fa77950c-782f-4ae0-b973-3aaf32cbf510@104.18.46.17:2053?encryption=none&security=tls&sni=org.sinss.ir&alpn=h3%2Ch2%2Chttp%2F1.1&type=grpc#ORG-6
+vless://fa77950c-782f-4ae0-b973-3aaf32cbf510@104.20.124.135:2053?encryption=none&security=tls&sni=org.sinss.ir&alpn=h3%2Ch2%2Chttp%2F1.1&type=grpc#ORG-7
 
 
 
-vless://83f2c851-f030-4ebe-99cf-5741249f6917@172.234.18.102:8080?encryption=none&security=none&type=tcp&headerType=none#TCP-1
-vless://7ba07fa3-4599-4cae-a1f8-9e7030aff51f@172.234.18.102:448?encryption=none&security=none&type=tcp&headerType=http&host=telewebion.com#TCP-2
-vless://83f2c851-f030-4ebe-99cf-5741249f6917@[2600:3c06::f03c:95ff:fea9:216f]:8080?encryption=none&security=none&type=tcp&headerType=none#TCP-3
-vless://7ba07fa3-4599-4cae-a1f8-9e7030aff51f@[2600:3c06::f03c:95ff:fea9:216f]:448?encryption=none&security=none&type=tcp&headerType=http&host=telewebion.com#TCP-4
+vless://7268c89c-c3a3-4bdf-a271-1a475517032f@org.sinss.ir:8080?encryption=none&security=none&type=tcp&headerType=none#TCP-1
+vless://97f654ef-8b98-4878-a95e-56c36fec5e23@org.sinss.ir:80?encryption=none&security=none&type=tcp&headerType=http&host=telewebion.com#TCP-2
+vless://7268c89c-c3a3-4bdf-a271-1a475517032f@[2600:3c0e::f03c:95ff:fe5d:c6e3]:8080?encryption=none&security=none&type=tcp&headerType=none#TCP-3
+vless://97f654ef-8b98-4878-a95e-56c36fec5e23@[2600:3c0e::f03c:95ff:fe5d:c6e3]:80?encryption=none&security=none&type=tcp&headerType=http&host=telewebion.com#TCP-4
